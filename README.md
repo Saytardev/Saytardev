@@ -8,6 +8,11 @@ Web engineering lead. I build and run websites and web products, and I connect e
 
 Most of my work is client work in private repositories.
 
-Next.js · TypeScript · React · WordPress · PHP · Supabase · Contentful
+## Tools
+
+- **CMS:** WordPress · Contentful (certified) · Contentstack · Strapi · Kentico · Drupal · Craft CMS · Webflow
+- **AI:** Claude · Claude Code · Claude Design · Claude API · OpenClaw · ChatGPT · Cursor
+- **Platforms:** Next.js · Supabase · Vercel
+- **Analytics and marketing:** Google Tag Manager · GA4 · HubSpot
 
 [LinkedIn](https://www.linkedin.com/in/bozhidar-gospodinov/) · [saytar.net](https://saytar.net)
