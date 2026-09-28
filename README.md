@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bozhidar (Bobby) Gospodinov
 
-<!--
-**Saytardev/Saytardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web engineering lead. I build and run websites and web products, and I connect engineering with marketing and sales.
 
-Here are some ideas to get you started:
+- Web Engineering Lead at TeKnowledge
+- Founder of [saytar](https://saytar.net), a web studio
+- Built saytar WMS, an AI-powered warehouse system for manufacturers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work is client work in private repositories.
+
+Next.js · TypeScript · React · WordPress · PHP · Supabase · Contentful
+
+[LinkedIn](https://www.linkedin.com/in/bozhidar-gospodinov/) · [saytar.net](https://saytar.net)
